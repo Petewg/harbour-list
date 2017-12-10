@@ -47,7 +47,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Rafael Carmona [harbour - Definicion de lenguaje clipper para Sublime Text 2 ](https://github.com/rafathefull/harbour)
 - Rafał Jopek [harbour-commander - File manager](https://github.com/rjopek/harbour-commander)
 - Rafał Jopek [ltfbrowser - Large Text File Browser](https://github.com/rjopek/ltfbrowser)
-
+- Rossine [prj_teste - Projeto teste ](https://github.com/Rossine/prj_teste)
 
 #### Games
 
