@@ -19,7 +19,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 #### Graphical user interface
 
 - Phil Krylov [hbgi - Harbour bindings for GObject Introspection](https://github.com/tuffnatty/hbgi)
-- M., Ronaldo [hbqt-lite - hbqt - Harbour Qt Project]
+- M., Ronaldo [hbqt-lite - hbqt - Harbour Qt Project](https://github.com/MRonaldo/hbqt-lite)
 - Rafał Jopek [hbui - Portable, lightweight, GUI library for Harbour](https://github.com/rjopek/hbui)
 - Teo Fonrouge [qtHarbour](https://github.com/tfonrouge/qtHarbour)
 - Teo Fonrouge [wxHarbour](https://github.com/tfonrouge/wxHarbour/tree/master/wxHarbour)
