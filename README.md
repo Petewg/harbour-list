@@ -42,6 +42,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - José M. C. Quintas [nfse-sp-eduardo - NFSE SP eduardomc00](https://github.com/JoseQuintas/nfse-sp-eduardo)
 - José M. C. Quintas [pnharbour - Programmers Notepad configuration for Harbour](https://github.com/JoseQuintas/pnharbour)
 - José M. C. Quintas [sefazclass - Classe Harbour NFE/CTE/MDFE](https://github.com/JoseQuintas/sefazclass)
+- Pete [MgM - hmg (mingw)](https://github.com/Petewg/MgM)
 - Rafael Carmona [Fast- Fast Open Source](https://github.com/rafathefull/Fast)
 - Rafael Carmona [harbour - Definicion de lenguaje clipper para Sublime Text 2 ](https://github.com/rafathefull/harbour)
 - Rafał Jopek [harbour-commander - File manager](https://github.com/rjopek/harbour-commander)
