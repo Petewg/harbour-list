@@ -19,6 +19,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 #### Graphical user interface
 
 - Phil Krylov [hbgi - Harbour bindings for GObject Introspection](https://github.com/tuffnatty/hbgi)
+- M., Ronaldo [hbqt-lite - hbqt - Harbour Qt Project]
 - Rafał Jopek [hbui - Portable, lightweight, GUI library for Harbour](https://github.com/rjopek/hbui)
 - Teo Fonrouge [qtHarbour](https://github.com/tfonrouge/qtHarbour)
 - Teo Fonrouge [wxHarbour](https://github.com/tfonrouge/wxHarbour/tree/master/wxHarbour)
@@ -42,6 +43,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - José M. C. Quintas [nfse-sp-eduardo - NFSE SP eduardomc00](https://github.com/JoseQuintas/nfse-sp-eduardo)
 - José M. C. Quintas [pnharbour - Programmers Notepad configuration for Harbour](https://github.com/JoseQuintas/pnharbour)
 - José M. C. Quintas [sefazclass - Classe Harbour NFE/CTE/MDFE](https://github.com/JoseQuintas/sefazclass)
+- M., Ronaldo [MR-Tools - M.,Ronaldo Tools: Componentes e Classes para Harbour](https://github.com/MRonaldo/MR-Tools)
 - Pete [MgM - hmg (mingw)](https://github.com/Petewg/MgM)
 - Rafael Carmona [Fast- Fast Open Source](https://github.com/rafathefull/Fast)
 - Rafael Carmona [harbour - Definicion de lenguaje clipper para Sublime Text 2 ](https://github.com/rafathefull/harbour)
