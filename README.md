@@ -38,6 +38,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Alexander S.Kresin [libharbour4a - Just a set of makefiles to build libharbour.so with Android NDK tools](https://github.com/alkresin/libharbour4a)
 - Davor Siklic [fenix - Open source multiplatform simple invoice system](https://github.com/lynx68/fenix)
 - Ernad Husremović [atom-language-harbour](https://github.com/hernad/atom-language-harbour)
+- fernandoathayde [hbnfe - Automatically exported from code.google.com/p/hbnfe](https://github.com/fernandoathayde/hbnfe)
 - José M. C. Quintas [diversos  - diversos](https://github.com/JoseQuintas/diversos)
 - José M. C. Quintas [JoseQuintas - Aplicativo parcial](https://github.com/JoseQuintas/JoseQuintas) 
 - José M. C. Quintas [nfse-sp-eduardo - NFSE SP eduardomc00](https://github.com/JoseQuintas/nfse-sp-eduardo)
