@@ -18,7 +18,6 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 #### Graphical user interface
 
-- Fernando Yurisich [OOHG_Samples - Code samples related to Object Oriented Harbour GUI (OOHG) library](https://github.com/fyurisich/OOHG_Samples)
 - M., Ronaldo [hbqt-lite - hbqt - Harbour Qt Project](https://github.com/MRonaldo/hbqt-lite)
 - Phil Krylov [hbgi - Harbour bindings for GObject Introspection](https://github.com/tuffnatty/hbgi)
 - Rafał Jopek [hbui - Portable, lightweight, GUI library for Harbour](https://github.com/rjopek/hbui)
@@ -29,6 +28,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 - Alexander S.Kresin [letodb](https://github.com/alkresin/letodb)
 - elchs [LetoDBf - LetoDB fork](https://github.com/elchs/LetoDBf)
+- Fernando Yurisich [OOHG_Samples - Code samples related to Object Oriented Harbour GUI (OOHG) library](https://github.com/fyurisich/OOHG_Samples)
 - Teo Fonrouge [hbmongoc - MongoDb C driver for Harbour language (mongo-c-driver)](https://github.com/tfonrouge/hbmongoc)
 
 #### Other systems, applications
