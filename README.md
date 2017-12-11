@@ -18,6 +18,10 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 #### Graphical user interface
 
+- Marcos Antonio Gambeta [KDE4xHb - KDE 4 for Harbour and xHarbour](https://github.com/marcosgambeta/KDE4xHb)
+- Marcos Antonio Gambeta [KDE5xHb - KDE 5 for Harbour and xHarbour](https://github.com/marcosgambeta/KDE5xHb)
+- Marcos Antonio Gambeta [Qt4xHb - Qt Framework 4 for Harbour and xHarbour](https://github.com/marcosgambeta/Qt4xHb)
+- Marcos Antonio Gambeta [Qt5xHb - Bindings libraries for Harbour/xHarbour and Qt Framework 5](https://github.com/marcosgambeta/Qt5xHb)
 - M., Ronaldo [hbqt-lite - hbqt - Harbour Qt Project](https://github.com/MRonaldo/hbqt-lite)
 - Phil Krylov [hbgi - Harbour bindings for GObject Introspection](https://github.com/tuffnatty/hbgi)
 - Rafał Jopek [hbui - Portable, lightweight, GUI library for Harbour](https://github.com/rjopek/hbui)
