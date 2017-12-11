@@ -23,6 +23,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Marcos Antonio Gambeta [Qt4xHb - Qt Framework 4 for Harbour and xHarbour](https://github.com/marcosgambeta/Qt4xHb)
 - Marcos Antonio Gambeta [Qt5xHb - Bindings libraries for Harbour/xHarbour and Qt Framework 5](https://github.com/marcosgambeta/Qt5xHb)
 - M., Ronaldo [hbqt-lite - hbqt - Harbour Qt Project](https://github.com/MRonaldo/hbqt-lite)
+- oohg [core - Files needed to build and use OOHG's libraries](https://github.com/oohg/core)
 - Phil Krylov [hbgi - Harbour bindings for GObject Introspection](https://github.com/tuffnatty/hbgi)
 - Rafał Jopek [hbui - Portable, lightweight, GUI library for Harbour](https://github.com/rjopek/hbui)
 - Teo Fonrouge [qtHarbour](https://github.com/tfonrouge/qtHarbour)
