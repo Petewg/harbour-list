@@ -35,6 +35,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - elchs [LetoDBf - LetoDB fork](https://github.com/elchs/LetoDBf)
 - Fernando Yurisich [OOHG_Samples - Code samples related to Object Oriented Harbour GUI (OOHG) library](https://github.com/fyurisich/OOHG_Samples)
 - Teo Fonrouge [hbmongoc - MongoDb C driver for Harbour language (mongo-c-driver)](https://github.com/tfonrouge/hbmongoc)
+- Teo Fonrouge [oordb - Harbour OORDB is a Object Oriented Relational Database](https://github.com/tfonrouge/oordb)
 
 #### Other systems, applications
 
