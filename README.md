@@ -49,6 +49,8 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - fernandoathayde [hbnfe - Automatically exported from code.google.com/p/hbnfe](https://github.com/fernandoathayde/hbnfe)
 - FTrautwein [hblibxlsxwriter - libxlsxwriter wrappers for Harbour](https://github.com/FTrautwein/hblibxlsxwriter)
 - FTrautwein [xlsxwriter - Excel xlsx file writer for Harbour using Python and XlsxWriter](https://github.com/FTrautwein/xlsxwriter)
+- ibrahim SEN [xbase-gedit-highlight - Automatically exported from code.google.com/p/xbase-gedit-highlight](https://github.com/promek/xbase-gedit-highlight)
+- ibrahim SEN [pxfiyat - Automatically exported from code.google.com/p/pxfiyat](https://github.com/promek/pxfiyat)
 - José Luis Sánchez Navarro [colossus - Aplicación personal de gestión de contraseñas... ](https://github.com/JoseluisSanchez/colossus)
 - José Luis Sánchez Navarro [TTagEver - Clase TTagEver para FWH](https://github.com/JoseluisSanchez/TTagEver)
 - José Luis Sánchez Navarro [TRecord - Clase para Harbour que permite manejar un buffer de registro sobre un fichero DBF.](https://github.com/JoseluisSanchez/TRecord)
