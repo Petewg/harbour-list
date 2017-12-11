@@ -31,17 +31,23 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Teo Fonrouge [hbmongoc - MongoDb C driver for Harbour language (mongo-c-driver)](https://github.com/tfonrouge/hbmongoc)
 
 #### Other systems, applications
- 
+
+- afmontanar [xbaseSqlAdi - xbaseSqlAdi](https://github.com/afmontanar/xbaseSqlAdi)
 - Alexander S.Kresin [dbc_sqlite - SQLite database manager](https://github.com/alkresin/dbc_sqlite)
 - Alexander S.Kresin [hdcalcul - Simple Harbour calculator sample for HDroidGUI](https://github.com/alkresin/hdcalcul)
 - Alexander S.Kresin [h4aFirstApp - First attempt to create working Harbour application for Android](https://github.com/alkresin/h4aFirstApp)
 - Alexander S.Kresin [libharbour4a - Just a set of makefiles to build libharbour.so with Android NDK tools](https://github.com/alkresin/libharbour4a)
 - Davor Siklic [fenix - Open source multiplatform simple invoice system](https://github.com/lynx68/fenix)
+- Ekon Benefits [dbf-schema-track - Pre-commit program for schema tracking](https://github.com/ekonbenefits/dbf-schema-track)
+- Ekon Benefits [vscode-harbour - Syntax Highlighting for Harbour in VS Code](https://github.com/ekonbenefits/vscode-harbour)
 - Enderson Tadeu S. Maia [hbunit - hbunit is a unit-testing framework for the Harbour language.](https://github.com/endersonmaia/hbunit)
 - Ernad Husremović [atom-language-harbour](https://github.com/hernad/atom-language-harbour)
 - fernandoathayde [hbnfe - Automatically exported from code.google.com/p/hbnfe](https://github.com/fernandoathayde/hbnfe)
 - FTrautwein [hblibxlsxwriter - libxlsxwriter wrappers for Harbour](https://github.com/FTrautwein/hblibxlsxwriter)
 - FTrautwein [xlsxwriter - Excel xlsx file writer for Harbour using Python and XlsxWriter](https://github.com/FTrautwein/xlsxwriter)
+- José Luis Sánchez Navarro [colossus - Aplicación personal de gestión de contraseñas, que almacena las claves en un fichero dbf encriptado con ADS.](https://github.com/JoseluisSanchez/colossus)
+- José Luis Sánchez Navarro [TTagEver - Clase TTagEver para FWH](https://github.com/JoseluisSanchez/TTagEver)
+- José Luis Sánchez Navarro [TRecord - Clase para Harbour que permite manejar un buffer de registro sobre un fichero DBF.](https://github.com/JoseluisSanchez/TRecord)
 - José M. C. Quintas [diversos  - diversos](https://github.com/JoseQuintas/diversos)
 - José M. C. Quintas [JoseQuintas - Aplicativo parcial](https://github.com/JoseQuintas/JoseQuintas) 
 - José M. C. Quintas [nfse-sp-eduardo - NFSE SP eduardomc00](https://github.com/JoseQuintas/nfse-sp-eduardo)
@@ -55,6 +61,8 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Rafael Carmona [harbour - Definicion de lenguaje clipper para Sublime Text 2 ](https://github.com/rafathefull/harbour)
 - Rafał Jopek [harbour-commander - File manager](https://github.com/rjopek/harbour-commander)
 - Rafał Jopek [ltfbrowser - Large Text File Browser](https://github.com/rjopek/ltfbrowser)
+- Riztan Gutierrez [hbtfhka - Modulo Harbour para Fiscalizador de "The Factory HKA"](https://github.com/riztan/hbtfhka)
+- Riztan Gutierrez [puy_webserver - Servidor web de soporte a TPuy](https://github.com/riztan/tpuy_webserver)
 - Rossine [prj_teste - Projeto teste ](https://github.com/Rossine/prj_teste)
 
 #### Games
