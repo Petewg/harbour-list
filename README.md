@@ -47,6 +47,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Alexander S.Kresin [libharbour4a - Just a set of makefiles to build libharbour.so with Android NDK tools](https://github.com/alkresin/libharbour4a)
 - Arthur Helfstein Fragoso [Protheus-Include - Protheus Header files](https://github.com/imsys/Protheus-Include)
 - Christian Marchiori [AllInOne - Harbour samples](https://github.com/ChristianMarchiori/AllInOne)
+- Dave Pearson [ng2html - Command line utility for converting Norton Guide files into web pages](https://github.com/davep/ng2html)
 - Davor Siklic [fenix - Open source multiplatform simple invoice system](https://github.com/lynx68/fenix)
 - Ekon Benefits [dbf-schema-track - Pre-commit program for schema tracking](https://github.com/ekonbenefits/dbf-schema-track)
 - Ekon Benefits [vscode-harbour - Syntax Highlighting for Harbour in VS Code](https://github.com/ekonbenefits/vscode-harbour)
