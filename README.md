@@ -80,6 +80,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Riztan Gutierrez [hbtfhka - Modulo Harbour para Fiscalizador de "The Factory HKA"](https://github.com/riztan/hbtfhka)
 - Riztan Gutierrez [puy_webserver - Servidor web de soporte a TPuy](https://github.com/riztan/tpuy_webserver)
 - Rossine [prj_teste - Projeto teste ](https://github.com/Rossine/prj_teste)
+- Solon Barbosa [Clipper - Programas criados para Projeto da Cadeira de Compiladores](https://github.com/Solon97/Clipper)
 
 #### Games
 
