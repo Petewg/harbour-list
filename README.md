@@ -10,11 +10,11 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 # Table of Contents.
 
-[Harbour 3.00](https://sourceforge.net/projects/harbour-project/files/)
+[Harbour 3.0](https://sourceforge.net/projects/harbour-project/files/)
 
-[Harbour 3.20](https://github.com/harbour/core)
+[Harbour 3.2](https://github.com/harbour/core)
 
-[Harbour 3.40](https://github.com/vszakats/harbour-core)
+[Harbour 3.4](https://github.com/vszakats/harbour-core)
 
 #### Graphical user interface
 
@@ -53,6 +53,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Enderson Tadeu S. Maia [hbunit - hbunit is a unit-testing framework for the Harbour language.](https://github.com/endersonmaia/hbunit)
 - Ernad Husremović [atom-language-harbour](https://github.com/hernad/atom-language-harbour)
 - fernandoathayde [hbnfe - Automatically exported from code.google.com/p/hbnfe](https://github.com/fernandoathayde/hbnfe)
+- foldiii [websocket - Harbour websocket extension](https://github.com/foldiii/websocket)
 - FTrautwein [hblibxlsxwriter - libxlsxwriter wrappers for Harbour](https://github.com/FTrautwein/hblibxlsxwriter)
 - FTrautwein [xlsxwriter - Excel xlsx file writer for Harbour using Python and XlsxWriter](https://github.com/FTrautwein/xlsxwriter)
 - ibrahim SEN [xbase-gedit-highlight - Automatically exported from code.google.com/p/xbase-gedit-highlight](https://github.com/promek/xbase-gedit-highlight)
