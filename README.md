@@ -69,6 +69,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - mdlugos [magazyn - gospodarka magazynowa sprzedaż itd](https://github.com/mdlugos/magazyn)
 - M., Ronaldo [MR-Tools - M.,Ronaldo Tools: Componentes e Classes para Harbour](https://github.com/MRonaldo/MR-Tools)
 - Naldo DJ [tBigNumber - Classe em (x)Harbour/ADVPL para calcular números absurdamente grandes](https://github.com/NaldoDj/tBigNumber)
+- PsaCrypt [Secured-Hash - Secured-Hash](https://github.com/PsaCrypt/Secured-Hash)
 - Pete [MgM - hmg (mingw)](https://github.com/Petewg/MgM)
 - Rafael Carmona [Fast - Fast Open Source](https://github.com/rafathefull/Fast)
 - Rafael Carmona [harbour - Definicion de lenguaje clipper para Sublime Text 2 ](https://github.com/rafathefull/harbour)
