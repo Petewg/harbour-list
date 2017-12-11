@@ -33,10 +33,13 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 #### Other systems, applications
 
 - afmontanar [xbaseSqlAdi - xbaseSqlAdi](https://github.com/afmontanar/xbaseSqlAdi)
+- AHFERREIRA [adordd - adordd for (x)Harbour](https://github.com/AHFERREIRA/adordd)
 - Alexander S.Kresin [dbc_sqlite - SQLite database manager](https://github.com/alkresin/dbc_sqlite)
 - Alexander S.Kresin [hdcalcul - Simple Harbour calculator sample for HDroidGUI](https://github.com/alkresin/hdcalcul)
 - Alexander S.Kresin [h4aFirstApp - First attempt to create working Harbour application for Android](https://github.com/alkresin/h4aFirstApp)
 - Alexander S.Kresin [libharbour4a - Just a set of makefiles to build libharbour.so with Android NDK tools](https://github.com/alkresin/libharbour4a)
+- Arthur Helfstein Fragoso [Protheus-Include - Protheus Header files](https://github.com/imsys/Protheus-Include)
+- Christian Marchiori [AllInOne - Harbour samples](https://github.com/ChristianMarchiori/AllInOne)
 - Davor Siklic [fenix - Open source multiplatform simple invoice system](https://github.com/lynx68/fenix)
 - Ekon Benefits [dbf-schema-track - Pre-commit program for schema tracking](https://github.com/ekonbenefits/dbf-schema-track)
 - Ekon Benefits [vscode-harbour - Syntax Highlighting for Harbour in VS Code](https://github.com/ekonbenefits/vscode-harbour)
@@ -57,7 +60,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - mdlugos [magazyn - gospodarka magazynowa sprzedaż itd](https://github.com/mdlugos/magazyn)
 - M., Ronaldo [MR-Tools - M.,Ronaldo Tools: Componentes e Classes para Harbour](https://github.com/MRonaldo/MR-Tools)
 - Pete [MgM - hmg (mingw)](https://github.com/Petewg/MgM)
-- Rafael Carmona [Fast- Fast Open Source](https://github.com/rafathefull/Fast)
+- Rafael Carmona [Fast - Fast Open Source](https://github.com/rafathefull/Fast)
 - Rafael Carmona [harbour - Definicion de lenguaje clipper para Sublime Text 2 ](https://github.com/rafathefull/harbour)
 - Rafał Jopek [harbour-commander - File manager](https://github.com/rjopek/harbour-commander)
 - Rafał Jopek [ltfbrowser - Large Text File Browser](https://github.com/rjopek/ltfbrowser)
@@ -69,3 +72,4 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 - André "Intentor" Martins [snake-clipper - Classic snake game made in Clipper](https://github.com/intentor/snake-clipper)
 - Rafał Jopek [ games - games for Harbour programming language](https://github.com/rjopek/games)
+- Warleson Fernandes [Jogo-da-Alunissagem - O Jogo da alunissagem](https://github.com/WarlesonFernandes/Jogo-da-Alunissagem)
