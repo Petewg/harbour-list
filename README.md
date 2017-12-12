@@ -88,3 +88,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - André "Intentor" Martins [snake-clipper - Classic snake game made in Clipper](https://github.com/intentor/snake-clipper)
 - Rafał Jopek [ games - games for Harbour programming language](https://github.com/rjopek/games)
 - Warleson Fernandes [Jogo-da-Alunissagem - O Jogo da alunissagem](https://github.com/WarlesonFernandes/Jogo-da-Alunissagem)
+
+#### Archived
+
+Phil Barnett's [the-oasis](https://harbour.github.io/the-oasis/)
