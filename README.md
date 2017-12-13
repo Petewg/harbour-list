@@ -18,7 +18,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 #### Graphical user interface
 
-- Alexander S.Kresin [HDroidGUI - Simple Harbour calculator sample for HDroidGUI](https://github.com/alkresin/HDroidGUI)
+- Alexander S.Kresin [HDroidGUI - Android GUI framework for Harbour](https://github.com/alkresin/HDroidGUI)
 - Marcos Antonio Gambeta [KDE4xHb - KDE 4 for Harbour and xHarbour](https://github.com/marcosgambeta/KDE4xHb)
 - Marcos Antonio Gambeta [KDE5xHb - KDE 5 for Harbour and xHarbour](https://github.com/marcosgambeta/KDE5xHb)
 - Marcos Antonio Gambeta [Qt4xHb - Qt Framework 4 for Harbour and xHarbour](https://github.com/marcosgambeta/Qt4xHb)
@@ -43,6 +43,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - afmontanar [xbaseSqlAdi - xbaseSqlAdi](https://github.com/afmontanar/xbaseSqlAdi)
 - AHFERREIRA [adordd - adordd for (x)Harbour](https://github.com/AHFERREIRA/adordd)
 - Alexander S.Kresin [dbc_sqlite - SQLite database manager](https://github.com/alkresin/dbc_sqlite)
+- Alexander S.Kresin [hdcalcul - Simple Harbour calculator sample for HDroidGUI](https://github.com/alkresin/hdcalcul)
 - Alexander S.Kresin [h4aFirstApp - First attempt to create working Harbour application for Android](https://github.com/alkresin/h4aFirstApp)
 - Alexander S.Kresin [libharbour4a - Just a set of makefiles to build libharbour.so with Android NDK tools](https://github.com/alkresin/libharbour4a)
 - Arthur Helfstein Fragoso [Protheus-Include - Protheus Header files](https://github.com/imsys/Protheus-Include)
