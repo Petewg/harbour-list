@@ -26,7 +26,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - M., Ronaldo [hbqt-lite - hbqt - Harbour Qt Project](https://github.com/MRonaldo/hbqt-lite)
 - oohg [core - Files needed to build and use OOHG's libraries](https://github.com/oohg/core)
 - Phil Krylov [hbgi - Harbour bindings for GObject Introspection](https://github.com/tuffnatty/hbgi)
-- Rafał Jopek [hbui - Portable, lightweight, GUI library for Harbour](https://github.com/rjopek/hbui)
+- Rafał Jopek and friends [hbui - Portable, lightweight, GUI library for Harbour](https://github.com/rjopek/hbui)
 - Teo Fonrouge [qtHarbour](https://github.com/tfonrouge/qtHarbour)
 - Teo Fonrouge [wxHarbour](https://github.com/tfonrouge/wxHarbour/tree/master/wxHarbour)
 
@@ -83,6 +83,10 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Riztan Gutierrez [puy_webserver - Servidor web de soporte a TPuy](https://github.com/riztan/tpuy_webserver)
 - Rossine [prj_teste - Projeto teste ](https://github.com/Rossine/prj_teste)
 - Solon Barbosa [Clipper - Programas criados para Projeto da Cadeira de Compiladores](https://github.com/Solon97/Clipper)
+- VFPX [CodeAnalyst - A development tool that helps FoxPro developers...](https://github.com/VFPX/CodeAnalyst)
+- VFPX [FoxBarcode - A 100% Visual FoxPro class that provides a tool for generating images...](https://github.com/VFPX/FoxBarcode)
+- VFPX [FoxCharts - A class that allows VFP developers to directly draw charts and graphs](https://github.com/VFPX/FoxCharts)
+- VFPX [UpsizingWizard - An updated version of the Visual FoxPro 9.0 SP2 Upsizing Wizard (Sedna)](https://github.com/VFPX/UpsizingWizard)
 
 #### Games
 
