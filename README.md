@@ -17,7 +17,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 [Harbour 3.4](https://github.com/vszakats/harbour-core)
 
 #### Harbour Functions Dictionary
-- Pete [This is an alphabetical list of Harbour functions](https://github.com/Petewg/V-harbour-core/wiki)
+- Pete [This is an alphabetical list of Harbour functions]https://github.com/Petewg/harbour-core/wiki
 
 #### Graphical user interface
 
