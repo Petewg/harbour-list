@@ -61,6 +61,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - foldiii [websocket - Harbour websocket extension](https://github.com/foldiii/websocket)
 - FTrautwein [hblibxlsxwriter - libxlsxwriter wrappers for Harbour](https://github.com/FTrautwein/hblibxlsxwriter)
 - FTrautwein [xlsxwriter - Excel xlsx file writer for Harbour using Python and XlsxWriter](https://github.com/FTrautwein/xlsxwriter)
+- ibarrar [Clipper base programming archive](https://github.com/ibarrar/clipper)
 - ibrahim SEN [xbase-gedit-highlight - Automatically exported from code.google.com/p/xbase-gedit-highlight](https://github.com/promek/xbase-gedit-highlight)
 - ibrahim SEN [pxfiyat - Automatically exported from code.google.com/p/pxfiyat](https://github.com/promek/pxfiyat)
 - José Luis Sánchez Navarro [colossus - Aplicación personal de gestión de contraseñas... ](https://github.com/JoseluisSanchez/colossus)
