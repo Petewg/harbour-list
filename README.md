@@ -90,6 +90,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Riztan Gutierrez [puy_webserver - Servidor web de soporte a TPuy](https://github.com/riztan/tpuy_webserver)
 - Rossine [prj_teste - Projeto teste ](https://github.com/Rossine/prj_teste)
 - Solon Barbosa [Clipper - Programas criados para Projeto da Cadeira de Compiladores](https://github.com/Solon97/Clipper)
+- Ungaro [Extract Balances from all bitcoin address. Use .DAT of bitcoin-core client](https://github.com/ungaro59/Bitcoin-BlockChain-Balances-Extract)
 - VFPX [CodeAnalyst - A development tool that helps FoxPro developers...](https://github.com/VFPX/CodeAnalyst)
 - VFPX [FoxBarcode - A 100% Visual FoxPro class that provides a tool for generating images...](https://github.com/VFPX/FoxBarcode)
 - VFPX [FoxCharts - A class that allows VFP developers to directly draw charts and graphs](https://github.com/VFPX/FoxCharts)
