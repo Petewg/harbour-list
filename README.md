@@ -45,6 +45,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 #### Other systems, applications
 
 - afmontanar [xbaseSqlAdi - xbaseSqlAdi](https://github.com/afmontanar/xbaseSqlAdi)
+- Alexander S.Kresin [HDroidGUI demo application](https://github.com/alkresin/hddemo)
 - AHFERREIRA [adordd - adordd for (x)Harbour](https://github.com/AHFERREIRA/adordd)
 - Alexander S.Kresin [dbc_sqlite - SQLite database manager](https://github.com/alkresin/dbc_sqlite)
 - Alexander S.Kresin [hdcalcul - Simple Harbour calculator sample for HDroidGUI](https://github.com/alkresin/hdcalcul)
