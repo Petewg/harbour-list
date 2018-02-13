@@ -22,6 +22,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 #### Graphical user interface
 
 - Alexander S.Kresin [HDroidGUI - Android GUI framework for Harbour](https://github.com/alkresin/HDroidGUI)
+- Ernad Husremović [No description, website, or topics provided](https://github.com/hernad/harbour_hwgui)
 - Marcos Antonio Gambeta [KDE4xHb - KDE 4 for Harbour and xHarbour](https://github.com/marcosgambeta/KDE4xHb)
 - Marcos Antonio Gambeta [KDE5xHb - KDE 5 for Harbour and xHarbour](https://github.com/marcosgambeta/KDE5xHb)
 - Marcos Antonio Gambeta [Qt4xHb - Qt Framework 4 for Harbour and xHarbour](https://github.com/marcosgambeta/Qt4xHb)
