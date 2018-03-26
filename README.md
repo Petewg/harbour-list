@@ -18,6 +18,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 #### Harbour Functions Dictionary
 - Pete [This is an alphabetical list of Harbour functions](https://github.com/Petewg/harbour-core/wiki)
+- Juan Luis Gamero [Documentation for the Harbour Languaje](https://github.com/zgamero/sandbox/wiki)
 
 #### Graphical user interface
 
