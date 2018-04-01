@@ -53,6 +53,8 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Alexander S.Kresin [h4aFirstApp - First attempt to create working Harbour application for Android](https://github.com/alkresin/h4aFirstApp)
 - Alexander S.Kresin [libharbour4a - Just a set of makefiles to build libharbour.so with Android NDK tools](https://github.com/alkresin/libharbour4a)
 - Arthur Helfstein Fragoso [Protheus-Include - Protheus Header files](https://github.com/imsys/Protheus-Include)
+- Carlos Britos [GUI library written in Harbour OOP sintax](https://github.com/asistex/ighoo)
+- Carlos Britos [sublime text 3 package for harbour language.](https://github.com/asistex/Sublime-Text-harbour-Package)
 - Christian Marchiori [AllInOne - Harbour samples](https://github.com/ChristianMarchiori/AllInOne)
 - Dave Pearson [ng2html - Command line utility for converting Norton Guide files into web pages](https://github.com/davep/ng2html)
 - Davor Siklic [fenix - Open source multiplatform simple invoice system](https://github.com/lynx68/fenix)
