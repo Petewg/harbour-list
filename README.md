@@ -109,6 +109,15 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Rafał Jopek [ games - games for Harbour programming language](https://github.com/rjopek/games)
 - Warleson Fernandes [Jogo-da-Alunissagem - O Jogo da alunissagem](https://github.com/WarlesonFernandes/Jogo-da-Alunissagem)
 
+#### Facebook 
+
+- [Facebook Harbour Project](https://www.facebook.com/groups/harbour.project/)
+
+#### Google Groups Help
+
+- [Harbour Users](https://groups.google.com/forum/#!forum/harbour-users)
+- [Harbour Developers](https://groups.google.com/forum/#!forum/harbour-devel)
+
 #### Archived
 
 Phil Barnett's [the-oasis](https://harbour.github.io/the-oasis/)
