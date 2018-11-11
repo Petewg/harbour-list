@@ -39,6 +39,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 #### Tools and libraries
 
 - Alexander S.Kresin [letodb](https://github.com/alkresin/letodb)
+- Antonino Perricone [extension for visual studio code about harbour programming language](https://github.com/APerricone/harbourCodeExtension)
 - Antonio Linares Cañas, FiveTechSoft [fivetouch](https://github.com/FiveTechSoft/fivetouch)
 - elchs [LetoDBf - LetoDB fork](https://github.com/elchs/LetoDBf)
 - Fernando Yurisich [OOHG_Samples - Code samples related to Object Oriented Harbour GUI (OOHG) library](https://github.com/fyurisich/OOHG_Samples)
