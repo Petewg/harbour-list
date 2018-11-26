@@ -1,6 +1,6 @@
 # Harbour list on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
-Below is a list of open source Harbour-related projects that can be found on GitHub.
+Below is a list of open source Harbour, xHarbour, Clipper - related projects that can be found on GitHub.
 
 #### Contributing
 
