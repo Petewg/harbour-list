@@ -40,7 +40,8 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 - Alexander S.Kresin [letodb](https://github.com/alkresin/letodb)
 - Antonino Perricone [extension for visual studio code about harbour programming language](https://github.com/APerricone/harbourCodeExtension)
-- Antonio Linares Cañas, FiveTechSoft [fivetouch](https://github.com/FiveTechSoft/fivetouch)
+- Antonio Linares, FiveTechSoft [A dBase alike app for Android and iOS developed with Harbour and QT](https://github.com/FiveTechSoft/fivetouch)
+- Antonio Linares, FiveTechSoftA [RAD for the Web using Harbour and FiveWin syntax](https://github.com/FiveTechSoft/fiveweb)
 - elchs [LetoDBf - LetoDB fork](https://github.com/elchs/LetoDBf)
 - Fernando Yurisich [OOHG_Samples - Code samples related to Object Oriented Harbour GUI (OOHG) library](https://github.com/fyurisich/OOHG_Samples)
 - Teo Fonrouge [hbmongoc - MongoDb C driver for Harbour language (mongo-c-driver)](https://github.com/tfonrouge/hbmongoc)
