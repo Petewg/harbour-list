@@ -23,6 +23,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 #### Graphical user interface
 
 - Alexander S.Kresin [HDroidGUI - Android GUI framework for Harbour](https://github.com/alkresin/HDroidGUI)
+- Alexander S.Kresin [A server application, providing GUI service.](https://github.com/alkresin/guiserver)
 - Ernad Husremović [No description, website, or topics provided](https://github.com/hernad/harbour_hwgui)
 - Marcos Antonio Gambeta [HWGUIQt - GUI library compatible with HWGUI](https://github.com/marcosgambeta/HWGUIQt)
 - Marcos Antonio Gambeta [KDE4xHb - KDE 4 for Harbour and xHarbour](https://github.com/marcosgambeta/KDE4xHb)
@@ -41,7 +42,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Alexander S.Kresin [letodb](https://github.com/alkresin/letodb)
 - Antonino Perricone [extension for visual studio code about harbour programming language](https://github.com/APerricone/harbourCodeExtension)
 - Antonio Linares, FiveTechSoft [A dBase alike app for Android and iOS developed with Harbour and QT](https://github.com/FiveTechSoft/fivetouch)
-- Antonio Linares, FiveTechSoftA [RAD for the Web using Harbour and FiveWin syntax](https://github.com/FiveTechSoft/fiveweb)
+- Antonio Linares, FiveTechSoft [RAD for the Web using Harbour and FiveWin syntax](https://github.com/FiveTechSoft/fiveweb)
 - elchs [LetoDBf - LetoDB fork](https://github.com/elchs/LetoDBf)
 - Fernando Yurisich [OOHG_Samples - Code samples related to Object Oriented Harbour GUI (OOHG) library](https://github.com/fyurisich/OOHG_Samples)
 - Teo Fonrouge [hbmongoc - MongoDb C driver for Harbour language (mongo-c-driver)](https://github.com/tfonrouge/hbmongoc)
