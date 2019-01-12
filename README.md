@@ -37,6 +37,10 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Teo Fonrouge [qtHarbour](https://github.com/tfonrouge/qtHarbour)
 - Teo Fonrouge [wxHarbour](https://github.com/tfonrouge/wxHarbour/tree/master/wxHarbour)
 
+#### Text user interface
+
+- Teo Fonrouge [Text User Interface Library for the Harbour compiler](https://github.com/tfonrouge/HBTui)
+
 #### Tools and libraries
 
 - Alexander S.Kresin [letodb](https://github.com/alkresin/letodb)
