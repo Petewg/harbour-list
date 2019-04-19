@@ -33,6 +33,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - M., Ronaldo [hbqt-lite - hbqt - Harbour Qt Project](https://github.com/MRonaldo/hbqt-lite)
 - oohg [core - Files needed to build and use OOHG's libraries](https://github.com/oohg/core)
 - Phil Krylov [hbgi - Harbour bindings for GObject Introspection](https://github.com/tuffnatty/hbgi)
+- Rafał Jopek [Harbour binding for OpenGL and GLFW](https://github.com/rjopek/hb-glfw)
 - Rafał Jopek and friends [hbui - Portable, lightweight, GUI library for Harbour](https://github.com/rjopek/hbui)
 - Teo Fonrouge [qtHarbour](https://github.com/tfonrouge/qtHarbour)
 - Teo Fonrouge [wxHarbour](https://github.com/tfonrouge/wxHarbour/tree/master/wxHarbour)
