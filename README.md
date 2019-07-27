@@ -1,7 +1,5 @@
 # Harbour list on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
-
 Below is a list of open source Harbour, xHarbour, Clipper - related projects that can be found on GitHub.
-
 #### Contributing
 
 If you'd like to add a repository to the list, please [create an Issue](https://github.com/rjopek/harbour-list/issues), or fork this repository and submit a pull request.
@@ -127,3 +125,6 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 #### Archived
 
 Phil Barnett's [the-oasis](https://harbour.github.io/the-oasis/)
+
+#
+[(testing an idea)](/doc/p1)\
