@@ -127,4 +127,3 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 Phil Barnett's [the-oasis](https://harbour.github.io/the-oasis/)
 
 #
-[(testing an idea)](/doc/p1)\
