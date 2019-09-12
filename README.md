@@ -1,5 +1,9 @@
 # Harbour list on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 Below is a list of open source Harbour, xHarbour, Clipper - related projects that can be found on GitHub.
+
+#### NOTE: This is an original work by [Rafał Jopek](https://github.com/rjopek). 
+I have (quite unexpectedly) "inherited" this list by him (still I don't know the reason he had transfered it to me); I keep it here in hope it will be useful for harbour users.
+
 #### Contributing
 
 If you'd like to add a repository to the list, please [create an Issue](https://github.com/rjopek/harbour-list/issues), or fork this repository and submit a pull request.
