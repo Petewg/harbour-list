@@ -113,6 +113,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 #### Games
 
 - André "Intentor" Martins [snake-clipper - Classic snake game made in Clipper](https://github.com/intentor/snake-clipper)
+- Rafał Jopek [Examples of game programming in Harbour](https://github.com/rjopek/ASCII-Games)
 - Warleson Fernandes [Jogo-da-Alunissagem - O Jogo da alunissagem](https://github.com/WarlesonFernandes/Jogo-da-Alunissagem)
 
 #### Facebook 
