@@ -42,6 +42,9 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Teo Fonrouge [qtHarbour](https://github.com/tfonrouge/qtHarbour)
 - Teo Fonrouge [wxHarbour](https://github.com/tfonrouge/wxHarbour/tree/master/wxHarbour)
 
+#### Apache HTTP Server
+- Antonio Linares, FiveTechSoft [Apache mod for Harbour](https://github.com/FiveTechSoft/mod_harbour)
+
 #### Text user interface
 
 - Teo Fonrouge [Text User Interface Library for the Harbour compiler](https://github.com/tfonrouge/HBTui)
