@@ -3,7 +3,7 @@
 <!--
 (*NOTE: This is an original work by [Rafał Jopek](https://github.com/rjopek). Quite unexpectedly, I "inherited" this repository by him, (still, I don't know the reason he had transfered it to me! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Twemoji2_1f914.svg/480px-Twemoji2_1f914.svg.png" height="15" width="15" alt="wondering" title="inheritance">), so, everything below this note, must be credited to him; I have kept this list here, in hope it will be useful for harbour users*). 
 -->
-[*NOTE: This is an original work by [Rafał Jopek](https://github.com/rjopek). This means that all the info below this paragraph must be credited to him; This list is being left here, in hope that it may be useful for harbour users.*] 
+[*NOTE: This is an original work by [Rafał Jopek](https://github.com/rjopek). All the info below this paragraph must be credited to him; This list is placed here, in hope that it may be useful for harbour users.*] 
 #
 Below is a list of open source Harbour, xHarbour, Clipper - related projects that can be found on GitHub.
 
