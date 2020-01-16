@@ -119,6 +119,9 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - VFPX [FoxCharts - A class that allows VFP developers to directly draw charts and graphs](https://github.com/VFPX/FoxCharts)
 - VFPX [UpsizingWizard - An updated version of the Visual FoxPro 9.0 SP2 Upsizing Wizard (Sedna)](https://github.com/VFPX/UpsizingWizard)
 
+#### Harbour projects from Sourceforge
+- Michael Knowles[Programs, Procedures, Functions etc. that can run with hb3.#](https://sourceforge.net/projects/prgs-with-hb3/)
+
 #### Games
 
 - André "Intentor" Martins [snake-clipper - Classic snake game made in Clipper](https://github.com/intentor/snake-clipper)
