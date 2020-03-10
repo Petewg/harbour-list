@@ -50,6 +50,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 #### Text user interface
 
 - Teo Fonrouge [Text User Interface Library for the Harbour compiler](https://github.com/tfonrouge/HBTui)
+- e-Lama [Library for Harbour programming language which helps in cmd-gui (CUI) development](https://github.com/e-Lama/libgui)
 
 #### Tools and libraries
 
