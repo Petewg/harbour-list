@@ -84,7 +84,6 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Ernad Husremović [atom-language-harbour](https://github.com/hernad/atom-language-harbour)
 - fernandoathayde [hbnfe - Automatically exported from code.google.com/p/hbnfe](https://github.com/fernandoathayde/hbnfe)
 - giovanyvecchi [Class tAds For development of applications built in harbour](https://github.com/giovanyvecchi/tAdsGit)
-- Lailton [FiveWeb for Harbour - ( win / linux / mac )](https://github.com/lailton)
 - foldiii [websocket - Harbour websocket extension](https://github.com/foldiii/websocket)
 - FTrautwein [hblibxlsxwriter - libxlsxwriter wrappers for Harbour](https://github.com/FTrautwein/hblibxlsxwriter)
 - FTrautwein [xlsxwriter - Excel xlsx file writer for Harbour using Python and XlsxWriter](https://github.com/FTrautwein/xlsxwriter)
