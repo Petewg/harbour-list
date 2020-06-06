@@ -32,7 +32,9 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 #### Books
 - [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial:_a_Guide_to_Open_Source_Clipper(s))
-- [Enchiridion1 of Harbour](https://github.com/Petewg/HarbourEnchiridion) (in the making...)
+- [Enchiridion of Harbour](https://github.com/Petewg/HarbourEnchiridion) (in the making...)
+- [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour) (partially incomplete)
+- [Application Development with Harbour/Paradigms](https://en.wikibooks.org/wiki/Application_Development_with_Harbour/Paradigms) (a short text)
 
 
 #### Graphical user interface
