@@ -16,7 +16,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 # Table of Contents.
 
-###HARBOUR REPOSITORIES
+#### HARBOUR REPOSITORIES
 
 [Harbour 3.2 @ GitHub](https://github.com/harbour/core)
 
