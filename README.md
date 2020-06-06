@@ -39,10 +39,6 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 #### Graphical user interface
 
-
-https://en.wikibooks.org/wiki/Clipper_Tutorial:_a_Guide_to_Open_Source_Clipper(s)#Hash_Arrays_(Associative_Arrays,_Also_Known_as_%22Hash_Tables%22)
-
-
 - Alexander S.Kresin [HDroidGUI - Android GUI framework for Harbour](https://github.com/alkresin/HDroidGUI)
 - Alexander S.Kresin [A server application, providing GUI service.](https://github.com/alkresin/guiserver)
 - Antonino Perricone [Harbour binding for Ultralight UI](https://github.com/APerricone/HBUltralight)
