@@ -16,17 +16,30 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 # Table of Contents.
 
-[Harbour 3.0](https://sourceforge.net/projects/harbour-project/files/)
+###HARBOUR REPOSITORIES
 
-[Harbour 3.2](https://github.com/harbour/core)
+[Harbour 3.2 @ GitHub](https://github.com/harbour/core)
 
-[Harbour 3.4](https://github.com/vszakats/harbour-core)
+[Harbour 3.4 @ GitHub](https://github.com/vszakats/harbour-core)
+
+[Harbour ready to use binaries (@ Sourceforge)](https://sourceforge.net/projects/harbour-project/files/)
+
+
 
 #### Harbour Functions Dictionary
 - Pete [This is an alphabetical list of Harbour functions](https://github.com/Petewg/harbour-core/wiki)
 - Juan Luis Gamero [Documentation for the Harbour Languaje](https://github.com/zgamero/sandbox/wiki)
 
+#### Books
+- [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial:_a_Guide_to_Open_Source_Clipper(s))
+- [Enchiridion1 of Harbour](https://github.com/Petewg/HarbourEnchiridion) (in the making...)
+
+
 #### Graphical user interface
+
+
+https://en.wikibooks.org/wiki/Clipper_Tutorial:_a_Guide_to_Open_Source_Clipper(s)#Hash_Arrays_(Associative_Arrays,_Also_Known_as_%22Hash_Tables%22)
+
 
 - Alexander S.Kresin [HDroidGUI - Android GUI framework for Harbour](https://github.com/alkresin/HDroidGUI)
 - Alexander S.Kresin [A server application, providing GUI service.](https://github.com/alkresin/guiserver)
