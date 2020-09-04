@@ -84,6 +84,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Alexander S.Kresin [hdcalcul - Simple Harbour calculator sample for HDroidGUI](https://github.com/alkresin/hdcalcul)
 - Alexander S.Kresin [h4aFirstApp - First attempt to create working Harbour application for Android](https://github.com/alkresin/h4aFirstApp)
 - Alexander S.Kresin [libharbour4a - Just a set of makefiles to build libharbour.so with Android NDK tools](https://github.com/alkresin/libharbour4a)
+- Andres Ortiz Diaz [Harbour with MySQL](http://clipper64bits.blogspot.com/)
 - Arthur Helfstein Fragoso [Protheus-Include - Protheus Header files](https://github.com/imsys/Protheus-Include)
 - Carlos Britos [GUI library written in Harbour OOP sintax](https://github.com/asistex/ighoo)
 - Carlos Britos [sublime text 3 package for harbour language.](https://github.com/asistex/Sublime-Text-harbour-Package)
