@@ -4,15 +4,19 @@
 (*NOTE: This is an original work by [Rafał Jopek](https://github.com/rjopek). Quite unexpectedly, I "inherited" this repository by him, (still, I don't know the reason he had transfered it to me! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Twemoji2_1f914.svg/480px-Twemoji2_1f914.svg.png" height="15" width="15" alt="wondering" title="inheritance">), so, everything below this note, must be credited to him; I have kept this list here, in hope it will be useful for harbour users*). 
 -->
 [*NOTE: This is an original work by [Rafał Jopek](https://github.com/rjopek). All the info below this paragraph must be credited to him; This list is placed here, in hope that it may be useful for harbour users.*] 
+
+
+
 #
 Below is a list of open source Harbour, xHarbour, Clipper - related projects that can be found on GitHub.
 
+### Contribute!
 
-#### Contributing
-
-If you'd like to add a repository to the list, please [create an Issue](https://github.com/rjopek/harbour-list/issues), or fork this repository and submit a pull request.
-
--------
+- If you own or know any repository related to `Harbour` programming toolset, please consider sharing the link with the community.   
+You can do it quite easy by:
+   - [creating an Issue](https://github.com/Petewg/harbour-list/issues) 
+   - [forking this repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) and [creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
+#
 
 # Table of Contents.
 
