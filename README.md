@@ -72,6 +72,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 - Antonio Linares, FiveTechSoft [RAD for the Web using Harbour and FiveWin syntax](https://github.com/FiveTechSoft/fiveweb)
 - elchs [LetoDBf - LetoDB fork](https://github.com/elchs/LetoDBf)
 - Fernando Yurisich [OOHG_Samples - Code samples related to Object Oriented Harbour GUI (OOHG) library](https://github.com/fyurisich/OOHG_Samples)
+- FiveTechSoft [Harbour builder](https://github.com/FiveTechSoft/Harbour_builder/blob/master/.github/workflows/harbour_bcc_64.yml) "Harbour builder builds all Harbour flavours automatically using GitHub Actions"
 - Teo Fonrouge [hbmongoc - MongoDb C driver for Harbour language (mongo-c-driver)](https://github.com/tfonrouge/hbmongoc)
 - Teo Fonrouge [oordb - Harbour OORDB is a Object Oriented Relational Database](https://github.com/tfonrouge/oordb)
 
