@@ -74,13 +74,19 @@ You can do it quite easy by:
 
 - Alexander S.Kresin [letodb](https://github.com/alkresin/letodb)
 - Antonino Perricone [extension for visual studio code about harbour programming language](https://github.com/APerricone/harbourCodeExtension)
+- Antonino Perricone [DBF table viewer for VSCode](https://github.com/APerricone/vscode-dbf) This extension allow to view DBF table file file, usually created with Clipper, Harbour or Visual Fox Pro. :new:
 - Antonio Linares, FiveTechSoft [A dBase alike app for Android and iOS developed with Harbour and QT](https://github.com/FiveTechSoft/fivetouch)
 - Antonio Linares, FiveTechSoft [RAD for the Web using Harbour and FiveWin syntax](https://github.com/FiveTechSoft/fiveweb)
 - elchs [LetoDBf - LetoDB fork](https://github.com/elchs/LetoDBf)
+- EricLendvai [Harbour_ORM](https://github.com/EricLendvai/Harbour_ORM) a method to access and manipulate data using objects, instead of direct access to SQL backends. :new:
 - Fernando Yurisich [OOHG_Samples - Code samples related to Object Oriented Harbour GUI (OOHG) library](https://github.com/fyurisich/OOHG_Samples)
 - FiveTechSoft [Harbour builder](https://github.com/FiveTechSoft/Harbour_builder/blob/master/.github/workflows/harbour_bcc_64.yml) "Harbour builder builds all Harbour flavours automatically using GitHub Actions"
+- Riztan Gutierrez [hbtelegram](https://github.com/riztan/hbtelegram) Class to facilitate the development of [Telegram messenger](https://telegram.org/) bot from Harbour. :new:
 - Teo Fonrouge [hbmongoc - MongoDb C driver for Harbour language (mongo-c-driver)](https://github.com/tfonrouge/hbmongoc)
 - Teo Fonrouge [oordb - Harbour OORDB is a Object Oriented Relational Database](https://github.com/tfonrouge/oordb)
+
+
+
 
 #### Other systems, applications
 
