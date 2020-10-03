@@ -47,6 +47,8 @@ You can do it quite easy by:
 - Alexander S.Kresin [A server application, providing GUI service.](https://github.com/alkresin/guiserver)
 - Antonino Perricone [Harbour binding for Ultralight UI](https://github.com/APerricone/HBUltralight)
 - Ernad Husremović [No description, website, or topics provided](https://github.com/hernad/harbour_hwgui)
+- [Harbour MiniGUI Extended Edition](https://www.hmgextended.org/)
+- [HMG official](https://sites.google.com/site/hmgweb/) (see also, [this...](https://www.hmgforum.com/viewtopic.php?f=2&t=2))
 - Marcos Antonio Gambeta [HWGUIQt - GUI library compatible with HWGUI](https://github.com/marcosgambeta/HWGUIQt)
 - Marcos Antonio Gambeta [KDE4xHb - KDE 4 for Harbour and xHarbour](https://github.com/marcosgambeta/KDE4xHb)
 - Marcos Antonio Gambeta [KDE5xHb - KDE 5 for Harbour and xHarbour](https://github.com/marcosgambeta/KDE5xHb)
@@ -158,10 +160,13 @@ You can do it quite easy by:
 
 - [Facebook Harbour Project](https://www.facebook.com/groups/harbour.project/)
 
-#### Google Groups Help
+#### Users' Groups and Mailing Lists
 
 - [Harbour Users](https://groups.google.com/forum/#!forum/harbour-users)
 - [Harbour Developers](https://groups.google.com/forum/#!forum/harbour-devel)
+- [Old Mailing List](https://www.mail-archive.com/harbour@harbour-project.org/) (frozen)
+#
+- [Clipper users' group](https://groups.google.com/forum/#!forum/comp.lang.clipper). Yes, there do exist clipperheads! and so were we... (at least quite a few of us,  once upon...).
 
 #### Archived
 
