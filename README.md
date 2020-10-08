@@ -84,6 +84,7 @@ You can do it quite easy by:
 - Fernando Yurisich [OOHG_Samples - Code samples related to Object Oriented Harbour GUI (OOHG) library](https://github.com/fyurisich/OOHG_Samples)
 - FiveTechSoft [Harbour builder](https://github.com/FiveTechSoft/Harbour_builder/blob/master/.github/workflows/harbour_bcc_64.yml) "Harbour builder builds all Harbour flavours automatically using GitHub Actions"
 - Riztan Gutierrez [hbtelegram](https://github.com/riztan/hbtelegram) Class to facilitate the development of [Telegram messenger](https://telegram.org/) bot from Harbour. :new:
+- teamQPM [QPM (QAC based Project Manager)](https://github.com/teamQPM/qpm) "project manager for software applications based on Harbour..."
 - Teo Fonrouge [hbmongoc - MongoDb C driver for Harbour language (mongo-c-driver)](https://github.com/tfonrouge/hbmongoc)
 - Teo Fonrouge [oordb - Harbour OORDB is a Object Oriented Relational Database](https://github.com/tfonrouge/oordb)
 
