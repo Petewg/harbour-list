@@ -1,9 +1,9 @@
 # Harbour list on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
 <!--
-(*NOTE: This is an original work by [Rafał Jopek](https://github.com/rjopek). Quite unexpectedly, I "inherited" this repository by him, (still, I don't know the reason he had transfered it to me! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Twemoji2_1f914.svg/480px-Twemoji2_1f914.svg.png" height="15" width="15" alt="wondering" title="inheritance">), so, everything below this note, must be credited to him; I have kept this list here, in hope it will be useful for harbour users*). 
+(*NOTE: This is an original work by [Rafał Jopek](https://github.com/rjopek). Quite unexpectedly, I "inherited" this repository by him, (still, I don't know the reason he had transfered it to me! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Twemoji2_1f914.svg/480px-Twemoji2_1f914.svg.png" height="15" width="15" alt="wondering" title="inheritance">), so, everything below this note, must be credited to him; I have kept this list here, in hope it will be useful for harbour users*).
 -->
-[*NOTE: This is an original work by [Rafał Jopek](https://github.com/rjopek). All the info below this paragraph must be credited to him; This list is placed here, in hope that it may be useful for harbour users.*] 
+[*NOTE: This is an original work by [Rafał Jopek](https://github.com/rjopek). All the info below this paragraph must be credited to him; This list is placed here, in hope that it may be useful for harbour users.*]
 
 
 
@@ -12,9 +12,9 @@ Below is a list of open source Harbour, xHarbour, Clipper - related projects tha
 
 ### Contribute!
 
-- If you own or know any repository related to `Harbour` programming toolset, please consider sharing the link with the community.   
+- If you own or know any repository related to `Harbour` programming toolset, please consider sharing the link with the community.
 You can do it quite easy by:
-   - [creating an Issue](https://github.com/Petewg/harbour-list/issues) 
+   - [creating an Issue](https://github.com/Petewg/harbour-list/issues)
    - [forking this repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) and [creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
 #
 
@@ -49,6 +49,7 @@ You can do it quite easy by:
 - Ernad Husremović [No description, website, or topics provided](https://github.com/hernad/harbour_hwgui)
 - [Harbour MiniGUI Extended Edition](https://www.hmgextended.org/)
 - [HMG official](https://sites.google.com/site/hmgweb/) (see also, [this...](https://www.hmgforum.com/viewtopic.php?f=2&t=2))
+- Leonardo Mendez [hb-raylib (Repository transferred)](https://github.com/MarcosLeonardoMendezGerencir/hb-raylib)
 - Marcos Antonio Gambeta [HWGUIQt - GUI library compatible with HWGUI](https://github.com/marcosgambeta/HWGUIQt)
 - Marcos Antonio Gambeta [KDE4xHb - KDE 4 for Harbour and xHarbour](https://github.com/marcosgambeta/KDE4xHb)
 - Marcos Antonio Gambeta [KDE5xHb - KDE 5 for Harbour and xHarbour](https://github.com/marcosgambeta/KDE5xHb)
@@ -123,7 +124,7 @@ You can do it quite easy by:
 - José Luis Sánchez Navarro [TTagEver - Clase TTagEver para FWH](https://github.com/JoseluisSanchez/TTagEver)
 - José Luis Sánchez Navarro [TRecord - Clase para Harbour que permite manejar un buffer de registro sobre un fichero DBF.](https://github.com/JoseluisSanchez/TRecord)
 - José M. C. Quintas [diversos  - diversos](https://github.com/JoseQuintas/diversos)
-- José M. C. Quintas [JoseQuintas - Aplicativo parcial](https://github.com/JoseQuintas/JoseQuintas) 
+- José M. C. Quintas [JoseQuintas - Aplicativo parcial](https://github.com/JoseQuintas/JoseQuintas)
 - José M. C. Quintas [nfse-sp-eduardo - NFSE SP eduardomc00](https://github.com/JoseQuintas/nfse-sp-eduardo)
 - José M. C. Quintas [pnharbour - Programmers Notepad configuration for Harbour](https://github.com/JoseQuintas/pnharbour)
 - José M. C. Quintas [sefazclass - Classe Harbour NFE/CTE/MDFE](https://github.com/JoseQuintas/sefazclass)
@@ -158,7 +159,7 @@ You can do it quite easy by:
 - Rafał Jopek [Examples of game programming in Harbour](https://github.com/rjopek/ASCII-Games)
 - Warleson Fernandes [Jogo-da-Alunissagem - O Jogo da alunissagem](https://github.com/WarlesonFernandes/Jogo-da-Alunissagem)
 
-#### Facebook 
+#### Facebook
 
 - [Facebook Harbour Project](https://www.facebook.com/groups/harbour.project/)
 
