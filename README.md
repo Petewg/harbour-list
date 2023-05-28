@@ -1,18 +1,15 @@
-# Harbour list on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
 <!--
 (*NOTE: This is an original work by [Rafał Jopek](https://github.com/rjopek). Quite unexpectedly, I "inherited" this repository by him, (still, I don't know the reason he had transfered it to me! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Twemoji2_1f914.svg/480px-Twemoji2_1f914.svg.png" height="15" width="15" alt="wondering" title="inheritance">), so, everything below this note, must be credited to him; I have kept this list here, in hope it will be useful for harbour users*).
 -->
-[*NOTE: This is an original work by [Rafał Jopek](https://github.com/rjopek). All the info below this paragraph must be credited to him; This list is placed here, in hope that it may be useful for harbour users.*]
 
-
-
-#
-Below is a list of open source Harbour, xHarbour, Clipper - related projects that can be found on GitHub.
-
-### Contribute!
-
-- If you own or know any repository related to `Harbour` programming toolset, please consider sharing the link with the community.
+<l>**[NOTE: This is an original work by [Rafał Jopek](https://github.com/rjopek). \
+   All the info below this paragraph must be credited to him; This list is placed here, in hope that it may be useful for harbour users.]**</l>
+   
+# Harbour list on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
+Below is a list of open source Harbour, xHarbour, Clipper - related projects that can be found either on GitHub or elsewhere in the web; please note that the content of the sites listed here, is not (and cannot be) checked for validity, so if you encounter any problem please let us know.\
+**Contribute!**
+If you own or know any repository related to `Harbour` programming toolset, please consider sharing the link with the community.
 You can do it quite easy by:
    - [creating an Issue](https://github.com/Petewg/harbour-list/issues)
    - [forking this repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) and [creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
@@ -28,8 +25,6 @@ You can do it quite easy by:
 
 [Harbour ready to use binaries (@ Sourceforge)](https://sourceforge.net/projects/harbour-project/files/)
 
-
-
 #### Harbour Functions Dictionary
 - Pete [This is an alphabetical list of Harbour functions](https://github.com/Petewg/harbour-core/wiki)
 - Juan Luis Gamero [Documentation for the Harbour Languaje](https://github.com/zgamero/sandbox/wiki)
@@ -39,7 +34,6 @@ You can do it quite easy by:
 - [Enchiridion of Harbour](https://github.com/Petewg/HarbourEnchiridion) (in the making...)
 - [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour) (partially incomplete)
 - [Application Development with Harbour/Paradigms](https://en.wikibooks.org/wiki/Application_Development_with_Harbour/Paradigms) (a short text)
-
 
 #### Graphical user interface
 
@@ -89,10 +83,7 @@ You can do it quite easy by:
 - Teo Fonrouge [hbmongoc - MongoDb C driver for Harbour language (mongo-c-driver)](https://github.com/tfonrouge/hbmongoc)
 - Teo Fonrouge [oordb - Harbour OORDB is a Object Oriented Relational Database](https://github.com/tfonrouge/oordb)
 
-
-
-
-#### Other systems, applications
+#### Other systems, applications, source-code samples etc.
 
 - afmontanar [xbaseSqlAdi - xbaseSqlAdi](https://github.com/afmontanar/xbaseSqlAdi)
 - Alexander S.Kresin [HDroidGUI demo application](https://github.com/alkresin/hddemo)
@@ -103,6 +94,7 @@ You can do it quite easy by:
 - Alexander S.Kresin [libharbour4a - Just a set of makefiles to build libharbour.so with Android NDK tools](https://github.com/alkresin/libharbour4a)
 - Andres Ortiz Diaz [Harbour with MySQL](http://clipper64bits.blogspot.com/p/by-www_5.html)
 - Arthur Helfstein Fragoso [Protheus-Include - Protheus Header files](https://github.com/imsys/Protheus-Include)
+- Bernard [Je cherche dans mes notes sur Harbour](http://bernard.mouille.free.fr/Harbour/index.html)
 - Carlos Britos [GUI library written in Harbour OOP sintax](https://github.com/asistex/ighoo)
 - Carlos Britos [sublime text 3 package for harbour language.](https://github.com/asistex/Sublime-Text-harbour-Package)
 - Christian Marchiori [AllInOne - Harbour samples](https://github.com/ChristianMarchiori/AllInOne)
