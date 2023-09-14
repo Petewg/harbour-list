@@ -57,10 +57,11 @@ You can do it quite easy by:
 - Teo Fonrouge [qtHarbour](https://github.com/tfonrouge/qtHarbour)
 - Teo Fonrouge [wxHarbour](https://github.com/tfonrouge/wxHarbour/tree/master/wxHarbour)
 
-#### Apache HTTP Server
+#### WEB Interface
 - Antonio Linares, FiveTechSoft [Apache mod for Harbour](https://github.com/FiveTechSoft/mod_harbour)
-- listings of [mod harbour websites](http://winhotel.space/modharbour/modharbouronline.prg)
-- Harbour for [Web Apps](https://www.mod-harbour.com/)
+   - listings of [mod harbour websites](http://winhotel.space/modharbour/modharbouronline.prg)
+   - Harbour for [Web Apps](https://www.mod-harbour.com/)
+- Diego H. Fazio, [Harbour Web UI](https://github.com/diegofazio/hbwui)
 
 #### Text user interface
 
