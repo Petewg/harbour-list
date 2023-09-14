@@ -138,7 +138,9 @@ You can do it quite easy by:
 - Riztan Gutierrez [puy_webserver - Servidor web de soporte a TPuy](https://github.com/riztan/tpuy_webserver)
 - Riztan Gutierrez [hb_api_service - Un API muy básico usando servicio web y netIO de Harbour. Funcional en Windows y GNU/Linux](https://github.com/riztan/hb_api_service)
 - Riztan Gutierrez [hbxlsxwriter - Wrapper of xlsxwriter for Harbour](https://github.com/riztan/hbxlsxwriter)
-   - see also this Diego Fazio's [hbxlsxwriter **updated** fork](https://github.com/diegofazio/hbxlsxwriter)
+   - see also:
+     - Diego Fazio's [hbxlsxwriter updated fork](https://github.com/diegofazio/hbxlsxwriter)
+     - Riztan's recent [revision](https://github.com/riztan/hbxlsxwriter/tree/revision)
 - Rossine [prj_teste - Projeto teste ](https://github.com/Rossine/prj_teste)
 - Solon Barbosa [Clipper - Programas criados para Projeto da Cadeira de Compiladores](https://github.com/Solon97/Clipper)
 - Ungaro [Extract Balances from all bitcoin address. Use .DAT of bitcoin-core client](https://github.com/ungaro59/Bitcoin-BlockChain-Balances-Extract)
