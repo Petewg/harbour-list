@@ -71,6 +71,7 @@ You can do it quite easy by:
 #### Tools and libraries
 
 - Alexander S.Kresin [letodb](https://github.com/alkresin/letodb)
+- Alexander S. Kresin - [Harbour bindings for libssh2 library](https://github.com/alkresin/hbssh2)
 - Antonino Perricone [extension for visual studio code about harbour programming language](https://github.com/APerricone/harbourCodeExtension)
 - Antonino Perricone [DBF table viewer for VSCode](https://github.com/APerricone/vscode-dbf) This extension allow to view DBF table file file, usually created with Clipper, Harbour or Visual Fox Pro. :new:
 - Antonio Linares, FiveTechSoft [A dBase alike app for Android and iOS developed with Harbour and QT](https://github.com/FiveTechSoft/fivetouch)
