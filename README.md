@@ -81,6 +81,7 @@ You can do it quite easy by:
 - Fernando Yurisich [OOHG_Samples - Code samples related to Object Oriented Harbour GUI (OOHG) library](https://github.com/fyurisich/OOHG_Samples)
 - FiveTechSoft [Harbour builder](https://github.com/FiveTechSoft/Harbour_builder/blob/master/.github/workflows/harbour_bcc_64.yml) "Harbour builder builds all Harbour flavours automatically using GitHub Actions"
 - Matteo Baccan [Harbour JWT](https://github.com/matteobaccan/HarbourJwt) JWT Implementation for Harbour
+- Rafał Jopek [**hbsvg**: A Simple SVG Library in Harbour](https://github.com/dev-harbour/hbsvg)
 - Riztan Gutierrez [hbtelegram](https://github.com/riztan/hbtelegram) Class to facilitate the development of [Telegram messenger](https://telegram.org/) bot from Harbour. :new:
 - teamQPM [QPM (QAC based Project Manager)](https://github.com/teamQPM/qpm) "project manager for software applications based on Harbour..."
 - Teo Fonrouge [hbmongoc - MongoDb C driver for Harbour language (mongo-c-driver)](https://github.com/tfonrouge/hbmongoc)
@@ -135,6 +136,7 @@ You can do it quite easy by:
 - Rafael Carmona [harbour - Definicion de lenguaje clipper para Sublime Text 2 ](https://github.com/rafathefull/harbour)
 - Rafał Jopek [harbour-commander - File manager](https://github.com/rjopek/harbour-commander)
 - Rafał Jopek and friends [How TO start programming in Harbour](https://github.com/rjopek/howto)
+- Rafał Jopek [Harbour Object-Oriented Programming Example](https://github.com/dev-harbour/template-OOP)
 - Riztan Gutierrez [hbtfhka - Modulo Harbour para Fiscalizador de "The Factory HKA"](https://github.com/riztan/hbtfhka)
 - Riztan Gutierrez [puy_webserver - Servidor web de soporte a TPuy](https://github.com/riztan/tpuy_webserver)
 - Riztan Gutierrez [hb_api_service - Un API muy básico usando servicio web y netIO de Harbour. Funcional en Windows y GNU/Linux](https://github.com/riztan/hb_api_service)
