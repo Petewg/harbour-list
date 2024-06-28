@@ -29,6 +29,9 @@ You can do it quite easy by:
 - Pete [This is an alphabetical list of Harbour functions](https://github.com/Petewg/harbour-core/wiki)
 - Juan Luis Gamero [Documentation for the Harbour Languaje](https://github.com/zgamero/sandbox/wiki)
 
+#### How-to
+- Alexander S. Kresin - [Harbour for beginners](https://www.kresin.ru/en/hrbfaq.html) How to install the Harbour and compile on it your program. Features of the Harbour.
+
 #### Books
 - [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial:_a_Guide_to_Open_Source_Clipper(s))
 - [Enchiridion of Harbour](https://github.com/Petewg/HarbourEnchiridion) (in the making...)
@@ -129,6 +132,7 @@ You can do it quite easy by:
 - Matías Mangiantini [harbour-clipper - Programas hechos en Clipper / Harbour.](https://github.com/matiasm15/harbour-clipper)
 - mdlugos [dieta - moje clipper - habour - korzystaj jak umiesz i zapraszam do współpracy](https://github.com/mdlugos/dieta)
 - mdlugos [magazyn - gospodarka magazynowa sprzedaż itd](https://github.com/mdlugos/magazyn)
+- Michael Knowles [Programs, Procedures, Functions etc. that can run with hb3.#](https://sourceforge.net/projects/prgs-with-hb3/)
 - M., Ronaldo [MR-Tools - M.,Ronaldo Tools: Componentes e Classes para Harbour](https://github.com/MRonaldo/MR-Tools)
 - Naldo DJ [tBigNumber - Classe em (x)Harbour/ADVPL para calcular números absurdamente grandes](https://github.com/NaldoDj/tBigNumber)
 - Paweł Wojciechowski [Dockerfiles for Harbour Project building on Ubuntu](https://github.com/felixd/docker-harbour)
@@ -153,9 +157,6 @@ You can do it quite easy by:
 - VFPX [FoxBarcode - A 100% Visual FoxPro class that provides a tool for generating images...](https://github.com/VFPX/FoxBarcode)
 - VFPX [FoxCharts - A class that allows VFP developers to directly draw charts and graphs](https://github.com/VFPX/FoxCharts)
 - VFPX [UpsizingWizard - An updated version of the Visual FoxPro 9.0 SP2 Upsizing Wizard (Sedna)](https://github.com/VFPX/UpsizingWizard)
-
-#### Harbour projects from Sourceforge
-- Michael Knowles[Programs, Procedures, Functions etc. that can run with hb3.#](https://sourceforge.net/projects/prgs-with-hb3/)
 
 #### Games
 
