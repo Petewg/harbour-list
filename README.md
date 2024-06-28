@@ -73,16 +73,17 @@ You can do it quite easy by:
 - Alexander S.Kresin [letodb](https://github.com/alkresin/letodb)
 - Alexander S. Kresin - [Harbour bindings for libssh2 library](https://github.com/alkresin/hbssh2)
 - Antonino Perricone [extension for visual studio code about harbour programming language](https://github.com/APerricone/harbourCodeExtension)
-- Antonino Perricone [DBF table viewer for VSCode](https://github.com/APerricone/vscode-dbf) This extension allow to view DBF table file file, usually created with Clipper, Harbour or Visual Fox Pro. :new:
+- Antonino Perricone [DBF table viewer for VSCode](https://github.com/APerricone/vscode-dbf) This extension allow to view DBF table file file, usually created with Clipper, Harbour or Visual Fox Pro.
 - Antonio Linares, FiveTechSoft [A dBase alike app for Android and iOS developed with Harbour and QT](https://github.com/FiveTechSoft/fivetouch)
 - Antonio Linares, FiveTechSoft [RAD for the Web using Harbour and FiveWin syntax](https://github.com/FiveTechSoft/fiveweb)
 - elchs [LetoDBf - LetoDB fork](https://github.com/elchs/LetoDBf)
-- Eric Lendvai [Harbour_ORM](https://github.com/EricLendvai/Harbour_ORM) a method to access and manipulate data using objects, instead of direct access to SQL backends. :new:
+- Eric Lendvai [Harbour_ORM](https://github.com/EricLendvai/Harbour_ORM) a method to access and manipulate data using objects, instead of direct access to SQL backends. 
 - Fernando Yurisich [OOHG_Samples - Code samples related to Object Oriented Harbour GUI (OOHG) library](https://github.com/fyurisich/OOHG_Samples)
 - FiveTechSoft [Harbour builder](https://github.com/FiveTechSoft/Harbour_builder/blob/master/.github/workflows/harbour_bcc_64.yml) "Harbour builder builds all Harbour flavours automatically using GitHub Actions"
+- Hans hansmarc - [Otis](https://github.com/hansmarc/Otis) 'Open Table InSpector' and is a database table inspection tool for Dbase, Clipper, Harbour, xHarbour, FoxPro, ..., files.
 - Matteo Baccan [Harbour JWT](https://github.com/matteobaccan/HarbourJwt) JWT Implementation for Harbour
 - Rafał Jopek [**hbsvg**: A Simple SVG Library in Harbour](https://github.com/dev-harbour/hbsvg)
-- Riztan Gutierrez [hbtelegram](https://github.com/riztan/hbtelegram) Class to facilitate the development of [Telegram messenger](https://telegram.org/) bot from Harbour. :new:
+- Riztan Gutierrez [hbtelegram](https://github.com/riztan/hbtelegram) Class to facilitate the development of [Telegram messenger](https://telegram.org/) bot from Harbour. 
 - teamQPM [QPM (QAC based Project Manager)](https://github.com/teamQPM/qpm) "project manager for software applications based on Harbour..."
 - Teo Fonrouge [hbmongoc - MongoDb C driver for Harbour language (mongo-c-driver)](https://github.com/tfonrouge/hbmongoc)
 - Teo Fonrouge [oordb - Harbour OORDB is a Object Oriented Relational Database](https://github.com/tfonrouge/oordb)
@@ -91,6 +92,7 @@ You can do it quite easy by:
 
 - afmontanar [xbaseSqlAdi - xbaseSqlAdi](https://github.com/afmontanar/xbaseSqlAdi)
 - Alexander S.Kresin [HDroidGUI demo application](https://github.com/alkresin/hddemo)
+- Alexander S. Kresin - [Llama.prg](https://gitflic.ru/project/alkresin/llama_prg) The main goal of llama.prg project is to provide possibility to create Harbour applications, which can interact with local [LLaMA](https://en.wikipedia.org/wiki/Llama_(language_model)) language models.
 - AHFERREIRA [adordd - adordd for (x)Harbour](https://github.com/AHFERREIRA/adordd)
 - Alexander S.Kresin [dbc_sqlite - SQLite database manager](https://github.com/alkresin/dbc_sqlite)
 - Alexander S.Kresin [hdcalcul - Simple Harbour calculator sample for HDroidGUI](https://github.com/alkresin/hdcalcul)
@@ -140,8 +142,8 @@ You can do it quite easy by:
 - Riztan Gutierrez [hbtfhka - Modulo Harbour para Fiscalizador de "The Factory HKA"](https://github.com/riztan/hbtfhka)
 - Riztan Gutierrez [puy_webserver - Servidor web de soporte a TPuy](https://github.com/riztan/tpuy_webserver)
 - Riztan Gutierrez [hb_api_service - Un API muy básico usando servicio web y netIO de Harbour. Funcional en Windows y GNU/Linux](https://github.com/riztan/hb_api_service)
-- Riztan Gutierrez [hbxlsxwriter - Wrapper of xlsxwriter for Harbour](https://github.com/riztan/hbxlsxwriter)
-   - see also:
+- Riztan Gutierrez [hbxlsxwriter - Wrapper of xlsxwriter for Harbour](https://github.com/riztan/hbxlsxwriter)\
+   see also:
      - Diego Fazio's [hbxlsxwriter updated fork](https://github.com/diegofazio/hbxlsxwriter)
      - Riztan's recent [revision](https://github.com/riztan/hbxlsxwriter/tree/revision)
 - Rossine [prj_teste - Projeto teste ](https://github.com/Rossine/prj_teste)
@@ -171,10 +173,10 @@ You can do it quite easy by:
 - [Harbour Developers](https://groups.google.com/forum/#!forum/harbour-devel)
 - [Old Mailing List](https://www.mail-archive.com/harbour@harbour-project.org/) (frozen)
 #
-- [Clipper users' group](https://groups.google.com/forum/#!forum/comp.lang.clipper). Yes, there do exist clipperheads! and so were we... (at least quite a few of us,  once upon...).
 
 #### Archived
-
-Phil Barnett's [the-oasis](https://harbour.github.io/the-oasis/)
+- [Clipper users' group](https://groups.google.com/forum/#!forum/comp.lang.clipper). Yes, there do exist clipperheads! and so were we, at least quite a few of us,  once upon...)
+  Unfortunately, "Google Groups no longer supports new usenet posts or subscriptions. Historical content remains viewable"
+- Phil Barnett's (R.I.P.) [the-oasis](https://harbour.github.io/the-oasis/). (Sadly, this link seems to be broken!)
 
 #
