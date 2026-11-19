@@ -173,6 +173,7 @@ You can do it quite easy by:
 
 - André "Intentor" Martins [snake-clipper - Classic snake game made in Clipper](https://github.com/intentor/snake-clipper)
 - Rafał Jopek [Examples of game programming in Harbour](https://github.com/rjopek/ASCII-Games)
+- Srđan Dragojlović [Nebula Raid - Retro fixed-screen shooter in text mode on Harbour-CUI (the 1980s arcade "Martians"): redefined 8x8 character set, runtime font loading, and in-memory 8-bit sound](https://github.com/digikv/Harbour-CUI/tree/main/samples/game)
 - Warleson Fernandes [Jogo-da-Alunissagem - O Jogo da alunissagem](https://github.com/WarlesonFernandes/Jogo-da-Alunissagem)
 
 #### Facebook
