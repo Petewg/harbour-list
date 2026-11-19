@@ -90,6 +90,7 @@ You can do it quite easy by:
 - Riztan Gutierrez [hbtelegram](https://github.com/riztan/hbtelegram) Class to facilitate the development of [Telegram messenger](https://telegram.org/) bot from Harbour. 
 - Srđan Dragojlović [CEdit - Cross-platform character-mode code editor built on Harbour-CUI with HbEdit keybindings, syntax highlighting, tabs, and multi-codepage support](https://github.com/digikv/Harbour-CUI/tree/main/samples/cedit)
 - Srđan Dragojlović [CuiBuilder - Character-mode IDE, build system (.hwprj and .hbp), visual Harbour-CUI dialog designer, Word/Excel report designer, and Git client (with cuibc CLI builder)](https://github.com/digikv/Harbour-CUI/tree/main/samples/cuibuilder)
+- Srđan Dragojlović [fonteditor - Pixel font editor for .glyphs files (8x8 cells and wider sprites). Draws the characters and builds a TrueType font for Windows and X11 bitmap fonts for Linux, all in Harbour; tools/pixelfont does the same build from the command line](https://github.com/digikv/Harbour-CUI/tree/main/samples/fonteditor)
 - Srđan Dragojlović [docx - Pure Harbour class to create, read, and fill .docx (Word) documents (styles, tables, charts, templates, PDF export) without Word or OLE](https://github.com/digikv/docx)
 - Srđan Dragojlović [xlsx - Pure Harbour class to create and read .xlsx (Excel) workbooks (styles, formulas, charts, pictures, codepage conversion) without Excel or OLE](https://github.com/digikv/xlsx)
 - teamQPM [QPM (QAC based Project Manager)](https://github.com/teamQPM/qpm) "project manager for software applications based on Harbour..."
