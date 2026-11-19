@@ -70,6 +70,7 @@ You can do it quite easy by:
 
 - Teo Fonrouge [Text User Interface Library for the Harbour compiler](https://github.com/tfonrouge/HBTui)
 - e-Lama [Library for Harbour programming language which helps in cmd-gui (CUI) development](https://github.com/e-Lama/libgui)
+- Srđan Dragojlović [Harbour-CUI - Character UI (TUI) widget library for Harbour with full UTF-8/CJK support, themes, mouse handling, and a complete suite of character-mode developer tools in samples/ (CEdit, CBro, CNC, CuiBuilder)](https://github.com/digikv/Harbour-CUI)
 
 #### Tools and libraries
 
@@ -87,6 +88,11 @@ You can do it quite easy by:
 - Matteo Baccan [Harbour JWT](https://github.com/matteobaccan/HarbourJwt) JWT Implementation for Harbour
 - Rafał Jopek [**hbsvg**: A Simple SVG Library in Harbour](https://github.com/dev-harbour/hbsvg)
 - Riztan Gutierrez [hbtelegram](https://github.com/riztan/hbtelegram) Class to facilitate the development of [Telegram messenger](https://telegram.org/) bot from Harbour. 
+- Srđan Dragojlović [CEdit - Cross-platform character-mode code editor built on Harbour-CUI with HbEdit keybindings, syntax highlighting, tabs, and multi-codepage support](https://github.com/digikv/Harbour-CUI/tree/main/samples/cedit)
+- Srđan Dragojlović [CuiBuilder - Character-mode IDE, build system (.hwprj and .hbp), visual Harbour-CUI dialog designer, Word/Excel report designer, and Git client (with cuibc CLI builder)](https://github.com/digikv/Harbour-CUI/tree/main/samples/cuibuilder)
+- Srđan Dragojlović [fonteditor - Pixel font editor for .glyphs files (8x8 cells and wider sprites). Draws the characters and builds a TrueType font for Windows and X11 bitmap fonts for Linux, all in Harbour; tools/pixelfont does the same build from the command line](https://github.com/digikv/Harbour-CUI/tree/main/samples/fonteditor)
+- Srđan Dragojlović [docx - Pure Harbour class to create, read, and fill .docx (Word) documents (styles, tables, charts, templates, PDF export) without Word or OLE](https://github.com/digikv/docx)
+- Srđan Dragojlović [xlsx - Pure Harbour class to create and read .xlsx (Excel) workbooks (styles, formulas, charts, pictures, codepage conversion) without Excel or OLE](https://github.com/digikv/xlsx)
 - teamQPM [QPM (QAC based Project Manager)](https://github.com/teamQPM/qpm) "project manager for software applications based on Harbour..."
 - Teo Fonrouge [hbmongoc - MongoDb C driver for Harbour language (mongo-c-driver)](https://github.com/tfonrouge/hbmongoc)
 - Teo Fonrouge [oordb - Harbour OORDB is a Object Oriented Relational Database](https://github.com/tfonrouge/oordb)
@@ -156,6 +162,8 @@ You can do it quite easy by:
       - [Documentation of the xlsxwriter library](https://libxlsxwriter.github.io/index.html)
 - Rossine [prj_teste - Projeto teste ](https://github.com/Rossine/prj_teste)
 - Solon Barbosa [Clipper - Programas criados para Projeto da Cadeira de Compiladores](https://github.com/Solon97/Clipper)
+- Srđan Dragojlović [CBro - Full-featured xBase database browser and manager (BroPlus successor) supporting DBF, LetoDB/LetoDBf, SQLite/ODBC, .xlsx import/export, .docx/.xlsx reports, and in-memory .prg scripting](https://github.com/digikv/Harbour-CUI/tree/main/samples/cbro)
+- Srđan Dragojlović [CNC - Two-panel character-mode file manager (Norton / Total Commander style) built on Harbour-CUI with FTP client, Windows network shares, directory hotlist, and built-in CEdit viewer/editor](https://github.com/digikv/Harbour-CUI/tree/main/samples/cnc)
 - Ungaro [Extract Balances from all bitcoin address. Use .DAT of bitcoin-core client](https://github.com/ungaro59/Bitcoin-BlockChain-Balances-Extract)
 - VFPX [CodeAnalyst - A development tool that helps FoxPro developers...](https://github.com/VFPX/CodeAnalyst)
 - VFPX [FoxBarcode - A 100% Visual FoxPro class that provides a tool for generating images...](https://github.com/VFPX/FoxBarcode)
@@ -166,6 +174,7 @@ You can do it quite easy by:
 
 - André "Intentor" Martins [snake-clipper - Classic snake game made in Clipper](https://github.com/intentor/snake-clipper)
 - Rafał Jopek [Examples of game programming in Harbour](https://github.com/rjopek/ASCII-Games)
+- Srđan Dragojlović [Nebula Raid - Retro fixed-screen shooter in text mode on Harbour-CUI (the 1980s arcade "Martians"): redefined 8x8 character set, runtime font loading, and in-memory 8-bit sound](https://github.com/digikv/Harbour-CUI/tree/main/samples/game)
 - Warleson Fernandes [Jogo-da-Alunissagem - O Jogo da alunissagem](https://github.com/WarlesonFernandes/Jogo-da-Alunissagem)
 
 #### Facebook
